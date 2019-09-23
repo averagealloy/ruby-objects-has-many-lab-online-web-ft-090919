@@ -26,4 +26,6 @@ class Artist
       Song.all.length
     end
 
+
+
 end
