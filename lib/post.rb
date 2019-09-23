@@ -16,5 +16,7 @@ class Post
     @@all
   end
 
+  def
+
 
 end
