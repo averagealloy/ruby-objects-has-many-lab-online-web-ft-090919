@@ -27,10 +27,6 @@ class Artist
       Song.all.length
     end
 
-    def artist_name
-      if self.artist
-        self.artist.name
-      end
-    end
+  
 
 end
