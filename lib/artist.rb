@@ -26,7 +26,7 @@ class Artist
       Song.all.length
     end
 
-    def author_name
+    def au_name
       if self.author
         self.author.name
       end
