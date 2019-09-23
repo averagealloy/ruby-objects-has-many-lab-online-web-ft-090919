@@ -27,7 +27,7 @@ class Artist
     end
 
     def artist_name
-      if self.art
+      if self.artist_name
         self.author.name
       end
     end
