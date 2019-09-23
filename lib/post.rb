@@ -17,7 +17,7 @@ class Post
   end
 
   def author_name
-    if a
+    if autho
   end
 
 
